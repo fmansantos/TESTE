@@ -1,0 +1,2 @@
+# TCC-BI-MASTER
+Este repositório contém o Trabalho de Conclusão de Curso - Projeto Final BI MASTER - BUSINESS INTELLIGENCE MASTER - SISTEMAS INTELIGENTES DE APOIO À DECISÃO EM NEGÓCIOS
